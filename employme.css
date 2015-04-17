@@ -1,0 +1,110 @@
+* {
+	font-family:Helvetica, sans-serif;
+}
+.navbar-default {
+	background-color:#400C00;
+	border-color:#FFFFFF;
+}
+
+.navbar-default .navbar-brand {
+	color: #FFFFFF;
+	 font-weight: bold;
+}
+
+.navbar-default .navbar-nav>li>a { color: #FFF;}
+
+.navbar-default .navbar-toggle .icon-bar { background-color: #FFF; }
+i.feature {	font-size:100px;}
+
+.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:focus, .navbar-default .navbar-nav>.active>a:hover {
+  color: #7F1800;
+  background-color: #FFF;
+}
+
+.btn-blue {
+	background-color:#FFFFFF;
+	border-color:#7F1800;
+	color:#7F1800;
+}
+
+.btn-orange {
+	background-color:#FFF;
+	border-color:#7F1800;
+	color:#7F1800;
+}
+
+.form-control {
+	border: 1px solid #7F1800;
+}
+
+.footer .btn-default {
+  color: #7F1800;
+  background-color: #FFF;
+  border-color: #7F1800;
+}
+
+#features {padding: 100px 0px;}
+
+
+#hero {background-color:#400C00;color:#FFF;padding:100px 0px 80px 0px;}
+#hero h2 {font-size:5em;margin-bottom:.25em;}
+#hero p#subtitle {font-size:2.5em;margin-bottom:.5em;font-style:italic;}
+
+#hero p#hard-sell {margin-top:50px;font-size:1.75em;}
+
+#benefits {
+	padding: 50px 0px 50px 0;
+	background-color:#7F1800;
+	color:#FFF;
+}
+
+#benefits h2 {
+	font-size: 3.5em;
+  	line-height: 1.5em;
+}
+
+#benefits #subtitle {margin-bottom:24px;}
+
+#benefits img {
+	background-color:#FFF;
+
+}
+
+#benefits .features {margin-top:24px;}
+
+#action {
+	padding:75px 0px;
+	background-color:#FF6E4C;
+}
+
+#action h2 {text-align:right;color:#FFF;}
+
+#action .input-group {margin-top:19px;}
+
+#action .btn-default {border:1px solid #7F1800;color:#7F1800;}
+
+#faq {padding: 50px 0px 50px 0px;}
+#faq h2 {text-align:right;}
+
+#faq .panel-default>.panel-heading {
+  color: #7F1800;
+  background-color: #FFFFFF;
+  border-color: #7F1800;
+}
+
+#faq .panel-default {
+  border-color: #7F1800;
+}
+
+
+.footer {
+	background-color:#595959;
+	color:#FFF;
+	padding:30px 0px;
+}
+
+.footer small {color:#FFF;}
+
+.footer a {color:#7F1800;}
+
+.footer .copyright {padding:25px 0 0 0px;}
