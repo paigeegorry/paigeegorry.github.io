@@ -1,8 +1,10 @@
+/* #004C7F #4CB6FF #0097FF #0A2A40 #0079CC */
+
 * {
 	font-family:Helvetica, sans-serif;
 }
 .navbar-default {
-	background-color:#400C00;
+	background-color:#0A2A40;
 	border-color:#FFFFFF;
 }
 
@@ -23,39 +25,45 @@ i.feature {	font-size:100px;}
 
 .btn-blue {
 	background-color:#FFFFFF;
-	border-color:#7F1800;
-	color:#7F1800;
+	border-color:#0079CC;
+	color:#0079CC;
 }
 
 .btn-orange {
 	background-color:#FFF;
-	border-color:#7F1800;
-	color:#7F1800;
+	border-color:#0079CC;
+	color:#0079CC;
 }
 
 .form-control {
-	border: 1px solid #7F1800;
+	border: 1px solid #0079CC;
 }
 
 .footer .btn-default {
-  color: #7F1800;
+  color: #0079CC;
   background-color: #FFF;
-  border-color: #7F1800;
+  border-color: #0079CC;
 }
 
-#features {padding: 100px 0px;}
+#features {padding: 50px 0px;}
 
 
-#hero {background-color:#400C00;color:#FFF;padding:100px 0px 80px 0px;}
-#hero h2 {font-size:5em;margin-bottom:.25em;}
-#hero p#subtitle {font-size:2.5em;margin-bottom:.5em;font-style:italic;}
+#hero {
+	background-color:#0A2A40;color:#FFF;
+	padding:100px 0px 80px 0px;
+}
+#hero h2 {font-size:5em;
+	margin-bottom:.25em;
+}
+#hero p#subtitle {
+	font-size:2.5em;
+	margin-bottom:.5em;
+	font-style:italic;}
 
 #hero p#hard-sell {margin-top:50px;font-size:1.75em;}
 
 #benefits {
 	padding: 50px 0px 50px 0;
-	background-color:#7F1800;
-	color:#FFF;
 }
 
 #benefits h2 {
@@ -63,38 +71,58 @@ i.feature {	font-size:100px;}
   	line-height: 1.5em;
 }
 
-#benefits #subtitle {margin-bottom:24px;}
+#benefits p#subtitle {margin-bottom:24px;
+	font-size:1.5em;}
 
 #benefits img {
 	background-color:#FFF;
-
 }
+
+#benefits h2 { color:#0A2A40;
+	font-weight:bold;}
 
 #benefits .features {margin-top:24px;}
 
 #action {
 	padding:75px 0px;
-	background-color:#FF6E4C;
+	background-color:#0079CC;
 }
 
 #action h2 {text-align:right;color:#FFF;}
 
 #action .input-group {margin-top:19px;}
 
-#action .btn-default {border:1px solid #7F1800;color:#7F1800;}
+#action .btn-default {border:1px solid #0A2A40;color:#0A2A40;}
 
 #faq {padding: 50px 0px 50px 0px;}
 #faq h2 {text-align:right;}
 
 #faq .panel-default>.panel-heading {
-  color: #7F1800;
+  color: #0A2A40;
   background-color: #FFFFFF;
-  border-color: #7F1800;
+  border-color: #0A2A40;
 }
 
 #faq .panel-default {
-  border-color: #7F1800;
+  border-color: #0A2A40;
 }
+
+#food h2{font-size:4em;
+	margin-bottom:.25em;
+	font-weight:bold;
+	color:#0079CC;	
+}
+
+#food p#subtitle {margin-bottom:24px;
+	font-size:1.15em;}
+
+#free h2{font-size:4em;
+		margin-bottom:.25em;
+		font-weight:bold;
+		color:#0079CC;	
+	}
+
+#free p { padding: 20px 0px 0px 0px; font-size:1.25em;}	
 
 
 .footer {
@@ -105,6 +133,22 @@ i.feature {	font-size:100px;}
 
 .footer small {color:#FFF;}
 
-.footer a {color:#7F1800;}
+.footer a {color:#0079CC;}
 
 .footer .copyright {padding:25px 0 0 0px;}
+
+#lookgood {
+	padding:50px;
+}
+
+#featurehome {
+	background-color:#0A2A40;
+	color:#FFF;padding:80px 0px 80px 0px;}
+	
+#featurehome h2 {font-size:5em;margin-bottom:.25em;}
+	
+#featurehome p#subtitle {font-size:2.0em;
+	margin-bottom:.5em;
+	font-style:;}
+
+#featurehome p#hard-sell {margin-top:50px;font-size:1.75em;}
