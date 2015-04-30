@@ -148,8 +148,7 @@ i.feature {	font-size:100px;}
 #featurehome h2 {font-size:5em;margin-bottom:.25em;;}
 	
 #featurehome p#subtitle {font-size:2.0em;
-	margin-bottom:.5em;
-	font-style:;}
+	margin-bottom:.5em;}
 
 #featurehome p#hard-sell {margin-top:50px;font-size:1.75em;}
 
@@ -163,3 +162,22 @@ i.feature {	font-size:100px;}
 #form {padding: 0px 0px 20px 0px;}
 #details h2 {font-size:3em;margin-bottom:.25em;color:#0A2A40;}
 #team h2 {font-size:3em;margin-bottom:.25em;color:#0A2A40;}
+
+#abouthome {background-color:#0A2A40;
+	color:#FFF;padding:80px 0px 80px 0px;}
+	
+#abouthome h2 {font-size:5em;margin-bottom:.25em;}
+#abouthome p#subtitle {font-size:2.0em;
+	margin-bottom:.5em;}
+
+#boxes {padding: 10px 0px 10px 0px;}
+#boxes h2 {font-size:3em;margin-bottom:.25em;color:#0A2A40;}
+#purchase1 {padding: 0px 0px 20px 0px; text-align:center;}
+
+#faqhome {background-color:#0A2A40;
+	color:#FFF;padding:80px 0px 80px 0px;}
+	
+#faqhome h2 {font-size:5em;margin-bottom:.25em;}
+#faqhome p#subtitle {font-size:2.0em;
+	margin-bottom:.5em;}
+
