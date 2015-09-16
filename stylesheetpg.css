@@ -1,0 +1,173 @@
+/* #221e1d #eceae0 #63aa9c #e9633b */
+
+* {
+	font-family:Helvetica, sans-serif;
+}
+.navbar-default {
+	background-color:#935347;
+	border-color:#FFFFFF;
+}
+
+.navbar-default .navbar-brand {
+	color: #FFFFFF;
+	 font-weight: bold;
+}
+
+.navbar-default .navbar-nav>li>a { color: #FFF;}
+
+.navbar-default .navbar-toggle .icon-bar { background-color: #FFF; }
+i.feature {	font-size:100px;}
+
+.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:focus, .navbar-default .navbar-nav>.active>a:hover {
+  color: #c7ad88;
+  background-color: #FFF;
+}
+
+
+.footer .btn-default {
+  color: #0079CC;
+  background-color: #FFF;
+  border-color: #0079CC;
+}
+
+.footer {background-color:#C9E1C1;}
+
+#features {padding: 50px 0px;}
+
+/*h2{font-family:serif;}
+h3{font-family:serif;}*/
+
+#welcome {
+	background-color:#935347;color:#FFF;
+	padding:100px 0px 80px 0px;
+}
+#welcome h2 {font-size:5em;
+	margin-bottom:.25em;
+	/*font-family:serif;*/
+}
+#welcome p#subtitle {
+	font-size:2.0em;
+	margin-bottom:.5em;
+	font-style:italic;}
+
+#welcome p#hard-sell {margin-top:50px;font-size:1.75em;}
+
+a:link {
+    color: #c7ad88;
+}
+
+a:visited {
+    color: #c7ad88;
+}
+
+a:hover {
+    color: #c7ad88;
+}
+
+a:active {
+    color: #c7ad88;
+}
+
+#objective {
+	padding: 25px 0px 25px 0;
+}
+
+#objective h3 {
+	font-size: 2.5em;
+  	line-height: 1.0em;
+	text-align:center;
+	font-weight:bold;
+	color:#935347;
+}
+
+#objective p#subtitle {margin-bottom:24px;
+	font-size:1.5em;}
+
+#objective img {
+	background-color:#FFF;
+}
+
+#objective .features {margin-top:24px;}
+
+#experience {
+	padding: 25px 0px 25px 0;
+}
+
+#experience h3 {
+	font-size: 2.5em;
+  	line-height: 1.0em;
+	text-align:center;
+	font-weight:bold;
+	color:#935347;
+}
+
+#experience h4 {
+	font-size: 1.05em;
+  	line-height: 1.0em;
+	color:#64706c;
+}
+
+#education {
+	padding: 25px 0px 25px 0;
+}
+
+#education h3 {
+	font-size: 2.5em;
+  	line-height: 1.0em;
+	text-align:center;
+	font-weight:bold;
+	color:#935347;
+}
+
+#education h4 {
+	font-size: 1.5em;
+  	line-height: 0.5em;
+	font-weight:bold;
+	color:#64706c;
+}
+#accomplishments {
+	padding: 25px 0px 25px 0;
+}
+
+#accomplishments h3 {
+	font-size: 2.5em;
+  	line-height: 1.0em;
+	text-align:center;
+	font-weight:bold;
+	color:#935347;
+}
+
+#accomplishments h4 {
+	font-size: 1.5em;
+  	line-height: 0.5em;
+	font-weight:bold;
+	color:#64706c;
+}
+
+#skills {
+	padding: 25px 0px 25px 0;
+	background-color:#ede9ce;
+}
+
+#skills h3 {
+	font-size: 2.5em;
+  	line-height: 1.0em;
+	text-align:center;
+	font-weight:bold;
+	color:#935347;
+}
+
+
+
+.footer {
+	background-color:#64706c;
+	color:black;
+	padding:30px 0px;
+}
+
+.footer small {color:#FFF;}
+
+
+.footer .copyright {padding:25px 0 0 0px;}
+
+
