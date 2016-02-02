@@ -4,7 +4,7 @@
 	font-family:Helvetica, sans-serif;
 }
 .navbar-default {
-	background-color:#935347;
+	background-color:#262C3A;
 	border-color:#FFFFFF;
 }
 
@@ -19,7 +19,7 @@
 i.feature {	font-size:100px;}
 
 .navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:focus, .navbar-default .navbar-nav>.active>a:hover {
-  color: #c7ad88;
+  color: #517398;
   background-color: #FFF;
 }
 
@@ -38,7 +38,7 @@ i.feature {	font-size:100px;}
 h3{font-family:serif;}*/
 
 #welcome {
-	background-color:#935347;color:#FFF;
+	background-color:#262C3A;color:#FFFFFF;
 	padding:100px 0px 80px 0px;
 }
 #welcome h2 {font-size:5em;
@@ -53,19 +53,19 @@ h3{font-family:serif;}*/
 #welcome p#hard-sell {margin-top:50px;font-size:1.75em;}
 
 a:link {
-    color: #c7ad88;
+    color: #517398;
 }
 
 a:visited {
-    color: #c7ad88;
+    color: #517398;
 }
 
 a:hover {
-    color: #c7ad88;
+    color: #517398;
 }
 
 a:active {
-    color: #c7ad88;
+    color: #517398;
 }
 
 #objective {
@@ -77,7 +77,7 @@ a:active {
   	line-height: 1.0em;
 	text-align:center;
 	font-weight:bold;
-	color:#935347;
+	color:#FF606E;
 }
 
 #objective p#subtitle {margin-bottom:24px;
@@ -98,13 +98,13 @@ a:active {
   	line-height: 1.0em;
 	text-align:center;
 	font-weight:bold;
-	color:#935347;
+	color:#FF606E;
 }
 
 #experience h4 {
 	font-size: 1.05em;
   	line-height: 1.0em;
-	color:#64706c;
+	color:#262C3A;
 }
 
 #education {
@@ -116,14 +116,14 @@ a:active {
   	line-height: 1.0em;
 	text-align:center;
 	font-weight:bold;
-	color:#935347;
+	color:#FF606E;
 }
 
 #education h4 {
 	font-size: 1.5em;
   	line-height: 0.5em;
 	font-weight:bold;
-	color:#64706c;
+	color:#262C3A;
 }
 #accomplishments {
 	padding: 25px 0px 25px 0;
@@ -134,19 +134,19 @@ a:active {
   	line-height: 1.0em;
 	text-align:center;
 	font-weight:bold;
-	color:#935347;
+	color:#FF606E;
 }
 
 #accomplishments h4 {
 	font-size: 1.5em;
   	line-height: 0.5em;
 	font-weight:bold;
-	color:#64706c;
+	color:#262C3A;
 }
 
 #skills {
 	padding: 25px 0px 25px 0;
-	background-color:#ede9ce;
+	background-color:#FF606E;
 }
 
 #skills h3 {
@@ -154,14 +154,14 @@ a:active {
   	line-height: 1.0em;
 	text-align:center;
 	font-weight:bold;
-	color:#935347;
+	color:#262C3A;
 }
 
 
 
 .footer {
-	background-color:#64706c;
-	color:black;
+	background-color:#262C3A;
+	color:WHITE;
 	padding:30px 0px;
 }
 
